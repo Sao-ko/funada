@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5264" lry="7115" xml:id="facs_60">
+         <graphic url="0060_060_28v.jpeg" width="5264px" height="7115px"/>
+         <zone points="4582,351 4586,351 4586,464 4582,464" rendition="TextRegion" xml:id="facs_60_r">
+         </zone>
+         <zone points="4466,275 4846,275 4846,588 4466,588" rendition="TextRegion" xml:id="facs_60_r_4">
+            <zone points="4562,481 4760,481 4760,514 4562,514" rendition="Line" xml:id="facs_60_l_127"/>
+         </zone>
+         <zone points="41,731 5136,731 5136,6867 41,6867" rendition="TextRegion" xml:id="facs_60_r_5">
+            <zone points="98,1301 139,1301 139,1333 98,1333" rendition="Line" xml:id="facs_60_l"/>
+            <zone points="69,1162 4642,1162 4642,1341 69,1341" rendition="Line" xml:id="facs_60_l_30"/>
+            <zone points="129,1442 4627,1442 4627,1632 129,1632" rendition="Line" xml:id="facs_60_l_34"/>
+            <zone points="142,1744 4556,1744 4556,1899 142,1899" rendition="Line" xml:id="facs_60_l_38"/>
+            <zone points="158,2165 187,2165 187,2200 158,2200" rendition="Line" xml:id="facs_60_l_45"/>
+            <zone points="172,2025 4683,2025 4683,2196 172,2196" rendition="Line" xml:id="facs_60_l_49"/>
+            <zone points="150,2346 4818,2346 4818,2532 150,2532" rendition="Line" xml:id="facs_60_l_64"/>
+            <zone points="181,2628 4645,2628 4645,2796 181,2796" rendition="Line" xml:id="facs_60_l_54"/>
+            <zone points="197,2921 4756,2921 4756,3098 197,3098" rendition="Line" xml:id="facs_60_l_98"/>
+            <zone points="1836,3213 4887,3213 4887,3334 1836,3334" rendition="Line" xml:id="facs_60_l_798"/>
+            <zone points="207,3312 1837,3312 1837,3412 207,3412" rendition="Line" xml:id="facs_60_l_102"/>
+            <zone points="218,3530 4829,3530 4829,3691 218,3691" rendition="Line" xml:id="facs_60_l_60"/>
+            <zone points="252,3820 5013,3820 5013,3998 252,3998" rendition="Line" xml:id="facs_60_l_75"/>
+            <zone points="1267,4106 4799,4106 4799,4247 1267,4247" rendition="Line" xml:id="facs_60_l_79"/>
+            <zone points="202,4428 4865,4428 4865,4602 202,4602" rendition="Line" xml:id="facs_60_l_83"/>
+            <zone points="228,4740 4909,4740 4909,4889 228,4889" rendition="Line" xml:id="facs_60_l_106"/>
+            <zone points="242,5027 4705,5027 4705,5169 242,5169" rendition="Line" xml:id="facs_60_l_88"/>
+            <zone points="876,5354 4603,5354 4603,5489 876,5489" rendition="Line" xml:id="facs_60_l_730"/>
+            <zone points="246,5453 872,5453 872,5515 246,5515" rendition="Line" xml:id="facs_60_l_92"/>
+            <zone points="278,5605 4924,5605 4924,5758 278,5758" rendition="Line" xml:id="facs_60_l_110"/>
+            <zone points="282,5920 4962,5920 4962,6063 282,6063" rendition="Line" xml:id="facs_60_l_114"/>
+            <zone points="288,6227 4859,6227 4859,6372 288,6372" rendition="Line" xml:id="facs_60_l_119"/>
+            <zone points="312,6565 2539,6565 2539,6668 312,6668" rendition="Line" xml:id="facs_60_l_166"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_60" n="60" xml:id="img_0060"/>
+            <ab facs="#facs_60_r_4" type="">
+               <l facs="#facs_60_l_127" n="N001"/>
+            </ab>
+            <ab facs="#facs_60_r_5" type="">
+               <l facs="#facs_60_l" n="N001">27</l>
+               <l facs="#facs_60_l_30" n="N002">examined them with care and there was no doubt that they</l>
+               <l facs="#facs_60_l_34" n="N003">were however buttons. I even distinguished that one of them</l>
+               <l facs="#facs_60_l_38" n="N004">was marked with the name of Hyam's who was Oldacie's</l>
+               <l facs="#facs_60_l_45" n="N005">tailor. I then worked the town very carefully for syns and</l>
+               <l facs="#facs_60_l_49" n="N006">traces but this draught has made everything as hard as iron.</l>
+               <l facs="#facs_60_l_64" n="N007">nothing was to be seen save that some body or bundle had</l>
+               <l facs="#facs_60_l_54" n="N008">been dragged through a low privet hedge which is in a line</l>
+               <l facs="#facs_60_l_98" n="N009">with the woodpile. All that ofconise fits in with the official</l>
+               <l facs="#facs_60_l_798" n="N010">theory. I crawled about the town with an august sun on my</l>
+               <l facs="#facs_60_l_102" n="N011">back, but I got up at the end of an hour no wiser than before.</l>
+               <l facs="#facs_60_l_60" n="N012">Well, after this paseo I went into the bedroom,</l>
+               <l facs="#facs_60_l_75" n="N013">and examined that also. The bloodstains were very alight,</l>
+               <l facs="#facs_60_l_79" n="N014">mere sincars and discolomations, but undouldelly fresh.</l>
+               <l facs="#facs_60_l_83" n="N015">The stick had been removed but there also the marks were</l>
+               <l facs="#facs_60_l_106" n="N016">slight. There is no doubt about the stick belonging to our</l>
+               <l facs="#facs_60_l_88" n="N017">Client. He admits it. Footmarks of both men could be made</l>
+               <l facs="#facs_60_l_730" n="N018">out on the carpet but none of any third person, which again is</l>
+               <l facs="#facs_60_l_92" n="N019">a triek for the other side. They were piling up their scorc all the</l>
+               <l facs="#facs_60_l_110" n="N020">time, and we at a stand still.</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
